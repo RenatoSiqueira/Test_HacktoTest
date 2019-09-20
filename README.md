@@ -30,6 +30,6 @@ Good intro to git and GitHub.
 ## License
 
 ## Aluno
-- Meu Nome
+- Meu Nome no Readme
 
 [MIT](LICENSE).

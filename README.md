@@ -29,4 +29,7 @@ Good intro to git and GitHub.
 
 ## License
 
+## Aluno
+- Meu Nome
+
 [MIT](LICENSE).

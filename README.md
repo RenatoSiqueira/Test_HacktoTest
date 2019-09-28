@@ -27,6 +27,20 @@ John Doe
 Good intro to git and GitHub.
 ```
 
+## Editing this Readme
+
+1. Add your **name** below
+2. Second line is your GitHub username. **Leading @ is a must.**
+
+```
+John Doe
+@johndoe
+```
+
+List of Names:
+- Renato Ely Siqueira @RenatoElySiqueira
+
+
 ## License
 
 [MIT](LICENSE).
